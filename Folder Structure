@@ -1,0 +1,6 @@
+ai-chatbot/
+├── chatbot.py
+├── intents.json
+├── preprocess.py
+├── requirements.txt
+└── README.md
